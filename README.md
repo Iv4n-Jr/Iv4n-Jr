@@ -1,10 +1,10 @@
 # Opa! Eu sou Ivan! 👋
 
-## Front-end, Estudante de DSM Fatec Mauá, Dev-Web (HTML, CSS e JavaScript)
+## Estudante de DSM Fatec Mauá
 
-- 🧠 Possuo conhecimentos fundamentais de JavaScript
-- 🌱 Estou estudando bastante quanto a desenvolvimento de páginas WEB
-- 🖥️ Pretendo trabalhar com tecnologias Front-end
+- 🧠 Possuo conhecimentos fundamentais de Front-End (JavaScript, HTML e CSS)
+- 🌱 Aprendendo Python
+- 🖥️ Pretendo trabalhar futuramente com programação
 
 ##
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iv4n-Jr&show_icons=true&theme=tokyonight) 
